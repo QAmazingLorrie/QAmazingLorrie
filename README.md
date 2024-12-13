@@ -2,7 +2,7 @@
 📍 Location: Manistee, MI (Remote)  
 
 💼 Key Roles: QA & Automation Solutions Manager, RPA Manager  
-👥 Skills: Team Leadership, Automation Frameworks, Agile, CI/CD, RPA  
+👥 Skills: Team Leadership & Mentoring, Quality Assurance, Automation Frameworks, Robotic Process Automation  
 
 ❤️‍🔥 I'm passionate about:  
   * QA Automation Frameworks – Developing scalable and efficient automation solutions for web, mobile, and desktop applications.  
