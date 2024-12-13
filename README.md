@@ -1,5 +1,4 @@
-👋 Hi, I’m @lorrieamcbride  
-😊 Pronouns: She/Her  
+👋 Hi, I’m Lorrie  
 📍 Location: Manistee, MI (Remote)  
 
 💼 Key Roles: QA & Automation Solutions Manager, RPA Manager  
